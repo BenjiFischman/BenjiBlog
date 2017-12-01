@@ -37,6 +37,7 @@
     "react-twitter-widgets": "^1.4.0"
   },
   "devDependencies": {
+    "babel-preset-env": "^1.6.1",
     "cli-glob": "^0.1.0",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.2",
